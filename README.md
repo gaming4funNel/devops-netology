@@ -1,6 +1,6 @@
 # devops-netology
 test 1
-
+test 2
 # Local .terraform directories
 **/.terraform/* - все папки .terraform в локальной директории.
 
