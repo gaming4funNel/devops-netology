@@ -1,6 +1,7 @@
 # devops-netology
 test 1
 add for fix branch
+with GUI
 
 # Local .terraform directories
 **/.terraform/* - все папки .terraform в локальной директории.
