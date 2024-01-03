@@ -10,7 +10,7 @@ Date:   Thu Jun 18 10:29:58 2020 -0400
 
 Update CHANGELOG.md
 ```
-3.
+2.
 Какому тегу соответствует коммит 85024d3:
 ```
 git describe --tags 85024d3
